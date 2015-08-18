@@ -23,7 +23,7 @@ Run tests in Eclipse IDE
 6. The test result will be shown in JUnit side panel.
 
 -----------------------------------------------------
-Run tests in command line.
+Run tests on command line.
 1. Navigate to your project directory where pom.xml file is.
 2. Type "mvn clean test".
 3. Maven should pick up all java files named "--Test".
