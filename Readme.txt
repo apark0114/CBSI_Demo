@@ -4,7 +4,6 @@ What you need to get started.
 1. Eclipse IDE (https://eclipse.org/downloads/)
 2. Maven 3
 3. Maven plugin (for eclipse) 
-4. Git plugin (for eclipse)
 4. Firefox browser
 
 -----------------------------------------------------
